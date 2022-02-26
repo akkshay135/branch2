@@ -4,3 +4,6 @@ SWEET
 jeera
 ragi
 chilli
+
+mutton
+biryani
