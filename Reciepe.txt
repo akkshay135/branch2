@@ -1,3 +1,6 @@
 SOUP
 CORN
 SWEET
+jeera
+ragi
+chilli
